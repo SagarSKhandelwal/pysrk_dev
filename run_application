@@ -1,0 +1,2 @@
+export SPARK_CLASSPATH=/home/technology/Downloads/postgresql-42.2.10.jar
+spark-submit --driver-class-path /home/technology/Downloads/postgresql-42.2.10.jar app.py
